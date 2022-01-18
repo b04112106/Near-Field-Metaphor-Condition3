@@ -1,0 +1,12 @@
+PID,condition,case,task,trial,size,distance(cm),Angular error X,Angular error Y,Angular error Z,volume difference(cm^3),time(sec.),number of attempt,number of collision,path length(cm),total angular rotation X,total angular rotation Y,total angular rotation Z,continous delta volume error(m^3)
+1,2,pick and place: 3-dim T + 1-dim R + 3-dim S,1,1,small,,,,,,1.241231,0,0,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,1,1,small,,,,,,0.8641465,0,0,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,1,2,small,,,,,,0.6735842,0,0,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,1,1,big,,,,,,0.6735952,0,0,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,1,2,big,,,,,,0.721235,0,0,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,2,1,small,,,,,,0.556267,0,2,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,2,2,small,,,,,,0.6819656,0,0,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,2,1,big,,,,,,0.6128823,0,1,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,2,2,big,,,,,,0.6812895,0,0,0,0,0,0,0
+1,2,tunnel: 3-dim T + 1-dim R + 3-dim S,3,1,small,,,,,,0.5846888,0,3,0.08451626,0,0,0,0
+

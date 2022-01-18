@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 3666aa868e587ee4a92c8cef7d75ab02
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Block:SL100
+  - first:
+      1: 100002
+    second: Block:SL100 1
+  - first:
+      1: 100004
+    second: Block:SL100 2
+  - first:
+      1: 100006
+    second: Block:SL100 3
+  - first:
+      1: 100008
+    second: //RootNode
+  - first:
+      1: 100010
+    second: Polyline
+  - first:
+      1: 100012
+    second: Polyline 1
+  - first:
+      1: 100014
+    second: Polyline 10
+  - first:
+      1: 100016
+    second: Polyline 11
+  - first:
+      1: 100018
+    second: Polyline 12
+  - first:
+      1: 100020
+    second: Polyline 2
+  - first:
+      1: 100022
+    second: Polyline 3
+  - first:
+      1: 100024
+    second: Polyline 4
+  - first:
+      1: 100026
+    second: Polyline 5
+  - first:
+      1: 100028
+    second: Polyline 6
+  - first:
+      1: 100030
+    second: Polyline 7
+  - first:
+      1: 100032
+    second: Polyline 8
+  - first:
+      1: 100034
+    second: Polyline 9
+  - first:
+      4: 400000
+    second: Block:SL100
+  - first:
+      4: 400002
+    second: Block:SL100 1
+  - first:
+      4: 400004
+    second: Block:SL100 2
+  - first:
+      4: 400006
+    second: Block:SL100 3
+  - first:
+      4: 400008
+    second: //RootNode
+  - first:
+      4: 400010
+    second: Polyline
+  - first:
+      4: 400012
+    second: Polyline 1
+  - first:
+      4: 400014
+    second: Polyline 10
+  - first:
+      4: 400016
+    second: Polyline 11
+  - first:
+      4: 400018
+    second: Polyline 12
+  - first:
+      4: 400020
+    second: Polyline 2
+  - first:
+      4: 400022
+    second: Polyline 3
+  - first:
+      4: 400024
+    second: Polyline 4
+  - first:
+      4: 400026
+    second: Polyline 5
+  - first:
+      4: 400028
+    second: Polyline 6
+  - first:
+      4: 400030
+    second: Polyline 7
+  - first:
+      4: 400032
+    second: Polyline 8
+  - first:
+      4: 400034
+    second: Polyline 9
+  - first:
+      23: 2300000
+    second: Block:SL100
+  - first:
+      23: 2300002
+    second: Block:SL100 1
+  - first:
+      23: 2300004
+    second: Block:SL100 2
+  - first:
+      23: 2300006
+    second: Block:SL100 3
+  - first:
+      23: 2300008
+    second: Polyline
+  - first:
+      23: 2300010
+    second: Polyline 1
+  - first:
+      23: 2300012
+    second: Polyline 10
+  - first:
+      23: 2300014
+    second: Polyline 11
+  - first:
+      23: 2300016
+    second: Polyline 12
+  - first:
+      23: 2300018
+    second: Polyline 2
+  - first:
+      23: 2300020
+    second: Polyline 3
+  - first:
+      23: 2300022
+    second: Polyline 4
+  - first:
+      23: 2300024
+    second: Polyline 5
+  - first:
+      23: 2300026
+    second: Polyline 6
+  - first:
+      23: 2300028
+    second: Polyline 7
+  - first:
+      23: 2300030
+    second: Polyline 8
+  - first:
+      23: 2300032
+    second: Polyline 9
+  - first:
+      33: 3300000
+    second: Block:SL100
+  - first:
+      33: 3300002
+    second: Block:SL100 1
+  - first:
+      33: 3300004
+    second: Block:SL100 2
+  - first:
+      33: 3300006
+    second: Block:SL100 3
+  - first:
+      33: 3300008
+    second: Polyline
+  - first:
+      33: 3300010
+    second: Polyline 1
+  - first:
+      33: 3300012
+    second: Polyline 10
+  - first:
+      33: 3300014
+    second: Polyline 11
+  - first:
+      33: 3300016
+    second: Polyline 12
+  - first:
+      33: 3300018
+    second: Polyline 2
+  - first:
+      33: 3300020
+    second: Polyline 3
+  - first:
+      33: 3300022
+    second: Polyline 4
+  - first:
+      33: 3300024
+    second: Polyline 5
+  - first:
+      33: 3300026
+    second: Polyline 6
+  - first:
+      33: 3300028
+    second: Polyline 7
+  - first:
+      33: 3300030
+    second: Polyline 8
+  - first:
+      33: 3300032
+    second: Polyline 9
+  - first:
+      43: 4300000
+    second: Polyline
+  - first:
+      43: 4300002
+    second: Polyline
+  - first:
+      43: 4300004
+    second: Polyline
+  - first:
+      43: 4300006
+    second: Block:SL100
+  - first:
+      43: 4300008
+    second: Block:SL100
+  - first:
+      43: 4300010
+    second: Block:SL100
+  - first:
+      43: 4300012
+    second: Block:SL100
+  - first:
+      43: 4300014
+    second: Polyline
+  - first:
+      43: 4300016
+    second: Polyline
+  - first:
+      43: 4300018
+    second: Polyline
+  - first:
+      43: 4300020
+    second: Polyline
+  - first:
+      43: 4300022
+    second: Polyline
+  - first:
+      43: 4300024
+    second: Polyline
+  - first:
+      43: 4300026
+    second: Polyline
+  - first:
+      43: 4300028
+    second: Polyline
+  - first:
+      43: 4300030
+    second: Polyline
+  - first:
+      43: 4300032
+    second: Polyline
+  - first:
+      64: 6400000
+    second: Block:SL100
+  - first:
+      64: 6400002
+    second: Block:SL100 1
+  - first:
+      64: 6400004
+    second: Block:SL100 2
+  - first:
+      64: 6400006
+    second: Block:SL100 3
+  - first:
+      64: 6400008
+    second: Polyline
+  - first:
+      64: 6400010
+    second: Polyline 1
+  - first:
+      64: 6400012
+    second: Polyline 10
+  - first:
+      64: 6400014
+    second: Polyline 11
+  - first:
+      64: 6400016
+    second: Polyline 12
+  - first:
+      64: 6400018
+    second: Polyline 2
+  - first:
+      64: 6400020
+    second: Polyline 3
+  - first:
+      64: 6400022
+    second: Polyline 4
+  - first:
+      64: 6400024
+    second: Polyline 5
+  - first:
+      64: 6400026
+    second: Polyline 6
+  - first:
+      64: 6400028
+    second: Polyline 7
+  - first:
+      64: 6400030
+    second: Polyline 8
+  - first:
+      64: 6400032
+    second: Polyline 9
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
