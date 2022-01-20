@@ -290,10 +290,9 @@ public class DoManipulation : MonoBehaviour
                         manipulationMode = 12;
                     }
                 }
-                else if(this.gameObject.tag == "CopyOfObject") // 3-dim
+                else if (this.gameObject.tag == "CopyOfObject") // 3-dim
                 {
                     manipulationMode = 16;
-                    
                 }
             } 
             else // do scaling
@@ -527,9 +526,13 @@ public class DoManipulation : MonoBehaviour
         {
             u = Vector3.ProjectOnPlane(v, BoundingBox.transform.right);
         }
-        else if(manipulationMode == 12) // TXZ
+        else if (manipulationMode == 12) // TXZ
         {
             u = Vector3.ProjectOnPlane(v, BoundingBox.transform.up);
+        }
+        else if (manipulationMode == 18) // TXYZ
+        {
+            u = v;
         }
         BoundingBox.transform.Translate(u, Space.World);
         SelectedObject.transform.Translate(u / ScaleCoefficient, Space.World);
@@ -1461,6 +1464,7 @@ public class DoManipulation : MonoBehaviour
                 {
                     objectToHL.GetComponent<MeshRenderer>().material.color = new Color(oriColor.r, oriColor.g, oriColor.b, grabAlpha);
                     effect.ProfileLoad(Resources.Load<HighlightProfile>("CornerGrab"));
+                    manipulationMode = 18;
                 }
                 else if(this.gameObject.tag == "CopyOfObject") // 3-dim
                 {
